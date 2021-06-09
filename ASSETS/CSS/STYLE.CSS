@@ -1,0 +1,51 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    color: var(--negroL);
+}
+.nav_titulo {
+    font-family: 'Lobster', cursive;
+    font-size: 39px;
+}
+
+.header_boton, .seccion_newslatter_boton {
+    border: 1px solid var(--gris);
+}
+.carousel-indicators button {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #000000;
+}
+.carousel-indicators {
+    top: 110%;
+}
+
+.section_ingre_prepa ul li{
+    list-style-position: inside;
+    margin: 6px 0;
+}
+
+.seccion_news {
+    padding: 90px 10px;
+    word-spacing: 10px;
+}
+
+.seccion_news p {
+    font-size: 18pt;
+}
+
+.seccion_news p span {
+    font-family: 'Lobster', cursive;
+}
+
+.seccion_news_boton {
+    padding: 7px 105px;
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+}
+
+footer h2 {
+    font-size: 32pt;
+}
